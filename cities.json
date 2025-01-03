@@ -1,0 +1,258 @@
+[
+    {
+        "name": "Москва",
+        "coords": [
+            55.751244,
+            37.618423
+        ],
+        "boundary_distance": 20
+    },
+    {
+        "name": "Санкт-Петербург",
+        "coords": [
+            59.93428,
+            30.335099
+        ],
+        "boundary_distance": 20
+    },
+    {
+        "name": "Белгород",
+        "coords": [
+            50.597735,
+            36.585823
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Великий Новгород",
+        "coords": [
+            58.5214,
+            31.275505
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Владимир",
+        "coords": [
+            56.129057,
+            40.407031
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Вологда",
+        "coords": [
+            59.220492,
+            39.891568
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Воронеж",
+        "coords": [
+            51.661535,
+            39.200287
+        ],
+        "boundary_distance": 15
+    },
+    {
+        "name": "Екатеринбург",
+        "coords": [
+            56.838926,
+            60.605703
+        ],
+        "boundary_distance": 15
+    },
+    {
+        "name": "Иваново",
+        "coords": [
+            57.000348,
+            40.973921
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Йошкар-Ола",
+        "coords": [
+            56.634431,
+            47.899888
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Казань",
+        "coords": [
+            55.796391,
+            49.108891
+        ],
+        "boundary_distance": 15
+    },
+    {
+        "name": "Калуга",
+        "coords": [
+            54.506043,
+            36.251593
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Кемерово",
+        "coords": [
+            55.354968,
+            86.087314
+        ],
+        "boundary_distance": 15
+    },
+    {
+        "name": "Кострома",
+        "coords": [
+            57.767961,
+            40.926858
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Краснодар",
+        "coords": [
+            45.03547,
+            38.975313
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Курск",
+        "coords": [
+            51.730361,
+            36.192647
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Липецк",
+        "coords": [
+            52.61015,
+            39.59418
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Майкоп",
+        "coords": [
+            44.607782,
+            40.10569
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Набережные Челны",
+        "coords": [
+            55.72711,
+            52.404913
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Нижний Новгород",
+        "coords": [
+            56.296504,
+            43.936059
+        ],
+        "boundary_distance": 15
+    },
+    {
+        "name": "Новосибирск",
+        "coords": [
+            55.008352,
+            82.935733
+        ],
+        "boundary_distance": 15
+    },
+    {
+        "name": "Орёл",
+        "coords": [
+            52.967257,
+            36.069647
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Рязань",
+        "coords": [
+            54.629704,
+            39.741146
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Ставрополь",
+        "coords": [
+            45.044838,
+            41.96923
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Тамбов",
+        "coords": [
+            52.721219,
+            41.452274
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Тверь",
+        "coords": [
+            56.858539,
+            35.917596
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Тула",
+        "coords": [
+            54.193122,
+            37.617348
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Ульяновск",
+        "coords": [
+            54.316685,
+            48.403123
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Чебоксары",
+        "coords": [
+            56.146223,
+            47.251931
+        ],
+        "boundary_distance": 12
+    },
+    {
+        "name": "Челябинск",
+        "coords": [
+            55.164442,
+            61.436843
+        ],
+        "boundary_distance": 15
+    },
+    {
+        "name": "Черкесск",
+        "coords": [
+            44.226863,
+            42.046782
+        ],
+        "boundary_distance": 10
+    },
+    {
+        "name": "Ярославль",
+        "coords": [
+            57.626559,
+            39.893813
+        ],
+        "boundary_distance": 10
+    }
+]
