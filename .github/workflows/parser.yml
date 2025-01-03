@@ -24,5 +24,6 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run parser   
-      run: python parser.py
+  run: python parser.py  # Убедись, что путь верный
+
 
